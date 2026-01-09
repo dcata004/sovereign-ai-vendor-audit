@@ -30,7 +30,7 @@ Reject the vendor immediately if:
 * 🔴 They refuse to provide a System Card or SOC2 Type II report.
 
 ## 🏛️ Need an Expert Review?
-This repository is maintained by **Cata Financial LLC.**.
+This repository is maintained by **Cata Risk Lab**.
 I provide a **48-hour Technical "Go/No-Go" Assessment** for enterprise clients. I verify the vendor's claims so you don't inherit their risk.
 
 [**Book a Vendor Audit Sprint**]([Link to my LinkedIn Services Page](https://www.linkedin.com/services/page/22879531042202a7a3/))
